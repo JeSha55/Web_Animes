@@ -1,0 +1,18 @@
+body{
+    background-color:rgba(224, 224, 218, 0.952);
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+}
+
+table{
+    background-color: blanchedalmond;
+    border-color:cornflowerblue;
+    border-style:dotted;
+}
+
+td{
+    text-align: center;
+}
